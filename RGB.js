@@ -170,7 +170,7 @@ $("#Divs").on("click",".box",function(){
   }
   else {
     $(this).css("background-color","black")
-     $("#try").text("Try again")
+     $("#try").text("Try again!!!!")
   }
   
 })
