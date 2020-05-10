@@ -1,0 +1,63 @@
+body{
+	font-family: 	monospace;	
+	text-align: center;
+	color: white;
+	background-color: black;
+}
+#header{
+	height: 175px;
+	background-color: #8f8394;
+}
+#mode{
+	background-color: white;
+	height: 30px;
+	text-align: center;
+	
+
+}
+
+.shift{
+	font-family:monospace;	
+	text-align: right;
+	color:#2400ff;;
+	font-size: 20px;
+	padding: 3.5px;
+
+}
+
+.col-md-4.box{
+	display:inline-block;
+	height: 120px;
+	width:120px;
+	align-content: center;
+	
+	margin-top: 15px;
+	margin-left:20px;
+	border-radius: 25px
+	
+
+	}
+a:link {
+  text-decoration: none;
+}
+a:active {
+  background-color: #80808052;
+
+}
+
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  background-color: #80808052;
+}
+#try{
+color:black;
+font-size: 20px;
+font-family: monospace;
+text-align: center;
+
+}
+
+
+
